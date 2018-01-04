@@ -382,7 +382,7 @@ a:hover, a:active, a:focus {
   padding-top: 10px;
 }
 
-#about #memberRow1
+#about #Row1
 {
   margin-top:150px;
 }
@@ -472,6 +472,14 @@ a:hover, a:active, a:focus {
   color: #ffffff;
 }
 
+/*---------------------------------------
+  Tutorials section
+-----------------------------------------*/
+
+.tutorialsContainer
+{
+  padding-top: 10px;
+}
 
 
 /*---------------------------------------
