@@ -136,8 +136,8 @@ a:hover, a:active, a:focus {
 #about,
 #gallery,
 #contact {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   position: relative;
 }
 
@@ -364,6 +364,27 @@ a:hover, a:active, a:focus {
 
 #about {
   background: #f0f0f0;
+}
+
+.description i
+{
+  padding: 3px;
+}
+
+#about .memberImage
+{
+  width: 200px;
+  height: 200px;
+}
+
+#about .memberContainer
+{
+  padding-top: 10px;
+}
+
+#about #memberRow1
+{
+  margin-top:150px;
 }
 
 #about .item {
